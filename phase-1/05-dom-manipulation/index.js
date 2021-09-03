@@ -30,3 +30,16 @@ const pokemons = [
     likes: 11,
   },
 ];
+
+const pikachu = document.createElement("h3");
+pikachu.innerHTML = "Pikachu";
+
+pokeCard.append(pikachu);
+
+const button = document.createElement("btn");
+button.className = "like=bttn";
+button.innerHTML = "♥";
+
+pokeCard.append(button);
+
+document.getElementById("app").append(pokeCard);
