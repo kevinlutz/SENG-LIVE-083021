@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": 2,
+      "title": "JavaScript & JQuery: Interactive Front-End Web Development",
+      "author": "Jon Duckett",
+      "genre": "technical",
+      "liked": false,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31SRWF+LkKL._SX258_BO1,204,203,200_.jpg",
+      "reviews": [
+        {
+          "user_id": 15,
+          "content": "good way to learn JQuery"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "genre": "technical",
+      "liked": true,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5131OWtQRaL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "reviews": [
+        {
+          "user_id": 25,
+          "content": "I disagree with everything in this book"
+        },
+        {
+          "user_id": 250,
+          "content": "Only JS book anyone needs"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "JavaScript: The Definitive Guide",
+      "author": "David Flanagan",
+      "genre": "technical",
+      "liked": false,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51wijnc-Y8L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "reviews": [
+        {
+          "user_id": 44,
+          "content": "Great intro to js book"
+        },
+        {
+          "user_id": 350,
+          "content": "It really is the Definitive guide"
+        }
+      ]
+    }
+  ],
+  "genres": [
+    "Horror",
+    "Technical",
+    "Fantasy",
+    "Sci-fi",
+    "Non-Fiction",
+    "Fiction",
+    "Mystery",
+    "Biography"
+  ]
+}

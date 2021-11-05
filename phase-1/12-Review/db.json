@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "apples",
+      "quantity": 4,
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "celery",
+      "quantity": 1,
+      "completed": false
+    },
+    {
+      "id": 3,
+      "name": "gatorade",
+      "quantity": 5,
+      "completed": false
+    }
+  ]
+}

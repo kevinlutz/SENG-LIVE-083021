@@ -19,3 +19,4 @@ To update the repository, follow these steps:
 1. On your Github account, navigate to repositories and select the repository `SENG-LIVE-083021` 
 2. At the top of the page, there will be a notification that states `This branch is 1 commit behind learn-co-students:main.` Click on the `Fetch upstream` dropdown and select `'Fetch and merge'` 
 3. Once the fetch and merge has completed, cd into the repository in the terminal with `cd SENG-LIVE-083021` and run `git pull`
+

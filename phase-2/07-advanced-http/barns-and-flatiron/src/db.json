@@ -1,0 +1,52 @@
+
+{"books": [
+        {
+            "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+            "author": "Marjin Haverbeke",
+            "genre": "technical",
+            "likes": 50,
+            "image":"https://eloquentjavascript.net/img/cover.jpg",
+            "reviews": [{"user_id": 1, "content":"Good book, but not great for new coders"}]
+        
+        },
+        {
+            "title": "JavaScript & JQuery: Interactive Front-End Web Development",
+            "author": "Jon Duckett",
+            "genre": "technical",
+            "likes": 45,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/31SRWF+LkKL._SX258_BO1,204,203,200_.jpg",
+            "reviews": [{"user_id": 15, "content":"good way to learn JQuery"}]
+            
+        },
+        {
+            "title": "JavaScript: The Good Parts",
+            "author": "Douglas Crockford",
+            "genre": "technical",
+            "likes": 36,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/5131OWtQRaL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "reviews": [{"user_id": 25, "content":"I disagree with everything in this book"}, {"user_id": 250, "content":"Only JS book anyone needs"}]
+            
+        },
+        {
+            "title": "JavaScript: The Definitive Guide",
+            "author": "David Flanagan",
+            "genre": "technical",
+            "likes": 25,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51wijnc-Y8L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "reviews": [{"user_id": 44, "content":"Great intro to js book"}, {"user_id": 350, "content":"It really is the Definitive guide"}]
+       
+        },
+        {
+            "title": "You Don’t Know JS",
+            "author": "David Flanagan",
+            "genre": "technical",
+            "likes": 6,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41T5H8u7fUL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "reviews": [{"user_id": 76, "content":"You can find this for free online, no need to pay for it!"}]
+         
+        }
+    ],
+    "genres": ["Horror", "Technical", "Fantasy", "Sci-fi", "Non-Fiction", "Fiction", "Mystery", "Biography"]
+}
+
+

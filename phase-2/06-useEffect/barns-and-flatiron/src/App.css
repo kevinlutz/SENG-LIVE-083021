@@ -1,0 +1,36 @@
+/* Tags */
+body{
+    margin: 0;
+    padding:0;
+}
+h1{
+    margin: 0;
+    padding:0;
+}
+/* classes */
+.general-form{
+    display:flex;
+    flex-direction: column;
+    width: 300px;
+    text-align: center;
+}
+.general-form input{
+    width: 100%;
+}
+.general-form textarea{
+    width: 100%;
+}
+
+.row-menu{
+    display: flex;
+}
+.row-menu div{
+    padding:3px;
+    margin: 3px;
+}
+
+/* DARK MODE */
+.dark-mode{
+    color:rgb(234, 230, 230);
+    background-color: rgb(66, 63, 63);
+}
